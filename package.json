@@ -1,0 +1,14 @@
+{
+  "name": "quickcommand",
+  "version": "1.0.0",
+  "description": "Save and call your commands in one place",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArmaizAdenwala",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "quickCommand": "index.js"
+  }
+}
