@@ -1,16 +1,16 @@
 # quickCommand
 
-##Setup
+## Setup
 
 Run `npm link`
 
-##Use
+## Use
 
 Adding a command: `quickCommand add commandName 'command'`
 
 Execute command: `quickCommand exec commandName`
 
-##Examples
+## Examples
 
 `quickCommand add list 'ls -la'`
 `quickCommand exec list`
