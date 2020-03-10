@@ -14,3 +14,10 @@ Execute command: `quickCommand exec commandName`
 
 `quickCommand add list 'ls -la'`
 `quickCommand exec list`
+
+
+## Author
+
+Armaiz Adenwala
+
+[Software Engineer Portfolio](https://armaizadenwala.com/)
